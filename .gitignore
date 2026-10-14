@@ -1,0 +1,23 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Shell / environment
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Local config
+.env
+.env.*
+
+# Build / test artifacts
+coverage/
+node_modules/
+dist/
+build/
+
+# Editor settings
+.vscode/
+.idea/
